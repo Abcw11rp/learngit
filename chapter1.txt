@@ -1,1 +1,18 @@
 this is first versin
+
+git syntax:
+git init
+git status
+git commit -m "message"
+git add
+git log
+git config
+$ git rm --cached -r .
+
+
+
+git checkout {filename}
+git diff {filename}
+
+wwwww
+
