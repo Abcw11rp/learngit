@@ -13,6 +13,7 @@ $ git rm --cached -r .
 
 git checkout {filename}
 git diff {filename}
-
+git checkout 
+git branch
 wwwww
 
